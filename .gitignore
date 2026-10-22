@@ -188,3 +188,19 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+
+# Local coding-assistant configuration
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.codex/
+.claude/
+.cursor/
+.windsurf/
+.cursorrules
+.windsurfrules
+.clinerules/
+.aider*
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
